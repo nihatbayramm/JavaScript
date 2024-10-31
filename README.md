@@ -1,4 +1,1 @@
-# Bootsrap
-# Bootsrap
-# bootstrap
 # JavaScript
